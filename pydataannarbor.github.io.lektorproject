@@ -1,0 +1,14 @@
+[project]
+name = PyData Ann Arbor
+description = PyData Ann Arbor
+url = http://pydataannarbor.github.io
+url_style = absolute
+language = en-US
+keywords = dev, software, programming, blog, python
+author =
+
+[servers.ghpages]
+target = ghpages+https://pydataannarbor/pydataannarbor.github.io
+
+[packages]
+lektor-markdown-highlighter = 0.1
