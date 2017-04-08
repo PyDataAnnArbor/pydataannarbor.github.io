@@ -19,7 +19,14 @@
   </div>
 {% endmacro %}
 
+{% macro future_title_date_link(post, from_index=false) %}
+  {% if post.future %}
+  <li><a href="{{ post|url }}">{{ post.title }}</a> -- {{ post.pub_date }} </li>
+  {% endif %}
+{% endmacro %}
 
 {% macro title_date_link(post, from_index=false) %}
+  {% if not post.future%}
   <li><a href="{{ post|url }}">{{ post.title }}</a> -- {{ post.pub_date }} </li>
+  {% endif %}
 {% endmacro %}
