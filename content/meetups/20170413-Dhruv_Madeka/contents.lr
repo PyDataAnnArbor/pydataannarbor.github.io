@@ -4,13 +4,13 @@ author: Sean Law and Benjamin Zaitlen
 ---
 pub_date: 2017-04-13
 ---
-future: True
----
 body:
 
 bqplot is a Python plotting library based on d3.js that offers its functionality directly in the Jupyter Notebook, including selections, interactions, and arbitrary css customization. In bqplot, every element of a chart is an interactive widget that can be bound to a python function, which serves as the callback when an interaction takes place. This allows the user to generate full fledged interactive applications directly in the Notebook with just a few lines of Python code. In the second part of the talk, drawing examples from fields like Data Science and Finance, we show examples of building interactive charts and dashboards using bqplot and the ipywidgets framework.
 
 The talk will also cover bqplot's interaction with the new JupyterLab IDE and what we plan for the future.
 
+- (Meetup Recording -- Coming Soon)
+- [Talk PDF](https://github.com/PyDataAnnArbor/Meetup/blob/master/talks/20170413/bqplot_presentation.pdf)
+
 ---
-futue: yes
