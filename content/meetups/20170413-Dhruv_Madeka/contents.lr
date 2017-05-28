@@ -10,7 +10,7 @@ bqplot is a Python plotting library based on d3.js that offers its functionality
 
 The talk will also cover bqplot's interaction with the new JupyterLab IDE and what we plan for the future.
 
-- (Meetup Recording -- Coming Soon)
+- [Meetup Recording](https://www.youtube.com/watch?v=wJS4S0WB4Jw)
 - [Talk PDF](https://github.com/PyDataAnnArbor/Meetup/blob/master/talks/20170413/bqplot_presentation.pdf)
 
 ---
