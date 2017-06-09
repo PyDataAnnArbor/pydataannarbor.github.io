@@ -1,0 +1,23 @@
+title: Big(ish) Data: Scaling Up Customer-facing Logs -- Bryan Witherspoon
+---
+author: Sean Law and Benjamin Zaitlen
+---
+pub_date: 2017-09-14
+---
+future: True
+---
+
+body:
+
+In a security product used to secure access to mission-critical applications,
+logging and auditing is incredibly important.  Recently, Duo Security
+transitioned its authentication log storage from MySQL to Elasticsearch.  In
+this talk, Bryan Witherspoon will talk about life before the transition, some
+of the reasons why we chose to make the transition, what went into the design
+process, the challenges we faced along the way, and the benefits we gained from
+the transition.
+
+As an engineer on Duo Security's Data Engineering team, Bryan Witherspoon
+designs and develops solutions to improve the usability and scale of data within
+Duo's products and services.  He occasionally tweets [@uoodsq](https://twitter.com/uoodsq).
+---
