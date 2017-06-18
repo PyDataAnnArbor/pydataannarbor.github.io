@@ -1,0 +1,40 @@
+title: An Introduction to Deep Learning with TensorFlow -- Sebastian Raschka
+---
+author: Sean Law and Benjamin Zaitlen
+---
+pub_date: 2017-08-24
+---
+future: True
+---
+body:
+
+*This event is co-hosted with the [Ann Arbor Machine Learning Meetup](https://www.meetup.com/Machine-Learning-Data-Science-and-Industry/) group.*
+
+In this tutorial, you will learn how to use the open-source TensorFlow library
+for deep learning. What's so great about TensorFlow is that it allows us to
+work with multi-dimensional arrays and train deep neural network very
+efficiently by utilizing GPU resources.
+
+In this introduction to TensorFlow, you will learn how to define computational
+graphs and how to execute them in a Python runtime environment. After
+implementing backpropagation for a simple multi-layer perceptron, we will talk
+about TensorFlow's convenience features for optimization and the new layers API
+to construct more complex deep learning architectures more compactly. Finally,
+we will implement a General Adversarial Networks architecture to see how we can
+access and update variables from different network graphs and scopes -- the
+entry point for inventing and experimenting with novel architectures in our
+real-world applications and research.
+
+As a Ph.D. candidate at Michigan State University, Sebastian Raschka is
+developing novel computational methods in the field of computational biology.
+Among others, his research activities include the development of new deep
+learning architectures to solve problems in the field of biometrics.
+
+
+Among his other works is his book “Python Machine Learning,” a bestselling
+title at Packt and on Amazon.com, which has been translated into German,
+Korean, Chinese, Japanese, and Italian. In his free time, Sebastian loves to
+contribute to open source projects, and methods that he implemented are now
+successfully used in machine learning competitions such as Kaggle.
+
+---
