@@ -4,8 +4,6 @@ author: Sean Law and Benjamin Zaitlen
 ---
 pub_date: 2017-08-24
 ---
-future: True
----
 body:
 
 *This event is co-hosted with the [Ann Arbor Machine Learning Meetup](https://www.meetup.com/Machine-Learning-Data-Science-and-Industry/) group.*
@@ -36,5 +34,8 @@ title at Packt and on Amazon.com, which has been translated into German,
 Korean, Chinese, Japanese, and Italian. In his free time, Sebastian loves to
 contribute to open source projects, and methods that he implemented are now
 successfully used in machine learning competitions such as Kaggle.
+
+- [Meetup Recording](Coming Soon)
+- [Talk PDF](https://github.com/PyDataAnnArbor/Meetup/blob/master/talks/20170824/pydata-annarbor2017-dl-tutorial.pdf)
 
 ---
