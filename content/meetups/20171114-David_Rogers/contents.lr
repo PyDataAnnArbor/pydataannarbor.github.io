@@ -1,0 +1,20 @@
+title: Delivering Data Products for Operations
+---
+author: Sean Law and Benjamin Zaitlen
+---
+pub_date: 2017-11-14
+---
+future: True
+---
+body:
+
+In this talk, David Rogers from Sight Machine will discuss the technical and non-technical aspects of delivering
+a scalable data product for use in enterprise operations. The aspects, ranging from data pipelining to customer education,
+will be blended with examples and anecdotes from my experiences delivering data products for some of the largest companies
+in the world.
+
+
+David Rogers is the Lead Data Scientist at Sight Machine, where he solves complex manufacturing problems for
+Global 500 companies with Digital Twin and AI technologies. His background includes full stack software development
+and applying system thinking for Boeing and nonprofit organizations. David holds a BS in computer engineering from
+Michigan State University and an MS in systems engineering from the University of Virginia.

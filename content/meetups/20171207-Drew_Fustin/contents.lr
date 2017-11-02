@@ -1,0 +1,30 @@
+title: Interrupted Time Series Experiments in Python
+---
+author: Sean Law and Benjamin Zaitlen
+---
+pub_date: 2017-12-07
+---
+future: True
+---
+body:
+
+Although ideal experimental design involves hypothesis testing with randomized controlled trials on concurrent populations to minimize selection bias
+and convoluting variables, it often arises that experiments cannot be run on variant populations simultaneously -- for instance, when a stimulus
+necessarily impacts the entire population at a specific point in time (as in measuring a non-digital ad campaign's effectiveness).  Dealing
+with these situations is common in the social sciences, where the method of Interrupted Time Series Analysis is commonly used. In order to
+measure the effect size of a stimulus in situations such as these, we have to consider many convoluting factors caused by our populations being
+non-concurrent before deriving meaning from the experimental results.
+
+In this Python-based tutorial, we will walk through a Monte Carlo-generated experiment measuring the lift induced
+by a simulated ad campaign. By the end of this tutorial, you will understand many complicating factors that could lead to
+faulty conclusions being drawn from the experimental results. However, you will also learn how best to design experiments and
+interpret results to mitigate these risks and take proper account of irreducible convoluting factors.
+
+
+Drew Fustin is a former physicist and current data scientist in Chicago. He created and led the data science organization
+at SpotHero, focusing primarily on optimizing acquisition marketing spend and balancing supply and demand to generate
+inventory and rate recommendations. He's also worked for GrubHub as the insights analyst, turning food facts into media
+content for the PR department and transforming data into actionable initiatives within the organization. He was also a
+data scientist with Digital H2O, a SaaS startup providing water intelligence for the oil/gas industry. He holds a PhD in physics
+from the University of Chicago, where he studied dark matter by looking for tiny bubbles in a chamber over a mile
+underground in a Canadian nickel mine.

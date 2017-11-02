@@ -4,11 +4,20 @@ author: Sean Law and Benjamin Zaitlen
 ---
 pub_date: 2017-10-10
 ---
-future: True
----
+
 body:
 
 This month we are reaching out to you, the local PyData Ann Arbor Community, and soliciting short "lighting talks".
 Share your data story! From successes to failures and from beginner to advanced, we want to hear about your experience.
 Talks are expected to be 10 minutes or less, completely unpolished, and presented in rapid-fire succession. We'd love to hear your story!
-[Sign up here](https://pydataannarbor.github.io/lightning-talk-sign-up/)
+
+- [Full Meetup Recording](https://www.youtube.com/watch?v=SPt5Bg3Rk7U&index=8&list=PLGVZCDnMOq0puRU58H5mXln72yOFHtV1b)
+ - Olga Boldarieva -- [Hot or Not: How Facial Attractiveness Affects Wages](https://youtu.be/SPt5Bg3Rk7U?list=PLGVZCDnMOq0puRU58H5mXln72yOFHtV1b&t=517)
+ - Michael Lance -- [School Data Analysis Automation](https://youtu.be/SPt5Bg3Rk7U?list=PLGVZCDnMOq0puRU58H5mXln72yOFHtV1b&t=982)
+ - Brian Lester -- [Getting Rid of `<unk>`](https://youtu.be/SPt5Bg3Rk7U?list=PLGVZCDnMOq0puRU58H5mXln72yOFHtV1b&t=982)
+ - Bob Finger -- [The Impostor Syndrome: Finishing the Iron Man in Last Place](https://youtu.be/SPt5Bg3Rk7U?list=PLGVZCDnMOq0puRU58H5mXln72yOFHtV1b&t=2117)
+ - Tawfiq Ammari -- [Using ML for Exploratory Analysis](https://youtu.be/SPt5Bg3Rk7U?list=PLGVZCDnMOq0puRU58H5mXln72yOFHtV1b&t=2813)
+ - Clayton Yochum -- [Ditching R for Python](https://youtu.be/SPt5Bg3Rk7U?list=PLGVZCDnMOq0puRU58H5mXln72yOFHtV1b&t=3428)
+ - Alex Cao -- [Privacy and Connected Vehicle Data](https://youtu.be/SPt5Bg3Rk7U?list=PLGVZCDnMOq0puRU58H5mXln72yOFHtV1b&t=4119)
+ - Raghu Thiagarajan -- [Improving Access, User Interactions, and Analysis via Bokeh](https://youtu.be/SPt5Bg3Rk7U?list=PLGVZCDnMOq0puRU58H5mXln72yOFHtV1b&t=4780)
+ - Vincent Rusnell -- [SAGE Mathematical Research, and PLEX Ageng Coding](https://youtu.be/SPt5Bg3Rk7U?list=PLGVZCDnMOq0puRU58H5mXln72yOFHtV1b&t=5081)
