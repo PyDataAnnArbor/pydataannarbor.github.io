@@ -4,8 +4,6 @@ author: Sean Law and Benjamin Zaitlen
 ---
 pub_date: 2017-12-07
 ---
-future: True
----
 body:
 
 Although ideal experimental design involves hypothesis testing with randomized controlled trials on concurrent populations to minimize selection bias
@@ -28,3 +26,5 @@ content for the PR department and transforming data into actionable initiatives 
 data scientist with Digital H2O, a SaaS startup providing water intelligence for the oil/gas industry. He holds a PhD in physics
 from the University of Chicago, where he studied dark matter by looking for tiny bubbles in a chamber over a mile
 underground in a Canadian nickel mine.
+
+- [Meetup Recording](https://www.youtube.com/watch?v=XLUaORFsLU8)
