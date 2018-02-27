@@ -4,8 +4,6 @@ author: Sean Law and Benjamin Zaitlen
 ---
 pub_date: 2018-01-09
 ---
-future: True
----
 
 body:
 
@@ -20,3 +18,5 @@ explain what NEXT is and it’s applications, architecture and experimentalist u
 [Scott Sievert](http://stsievert.com/) is a graduate student at the University of Wisconsin–Madison studying machine learning and
 optimization. He is an ambassador for the Center for Open Science and enjoys building and using a well designed
 software tool. His hobbies include skiing, backpacking and sailing.
+
+- [Meetup Recording](https://www.youtube.com/watch?v=rTyu4QTXZTc)
