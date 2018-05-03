@@ -15,7 +15,7 @@
 –––––––––––––––––––––––––––––––––––––––––––––––––– -->
 <link href="//fonts.googleapis.com/css?family=Raleway:400,300,600" rel="stylesheet" type="text/css">
 
-<title>Big Data with Apache Spark — pydataannarbor.github.io</title>
+<title>PCA, t-SNE, and UMAP: Modern Approaches to Dimension Reduction — pydataannarbor.github.io</title>
 </head>
 <body>
     <div class="container">
@@ -41,32 +41,29 @@
   
   <div class="blog-post">
   
-    <h2>Big Data with Apache Spark</h2>
+    <h2>PCA, t-SNE, and UMAP: Modern Approaches to Dimension Reduction</h2>
   
   <p class="meta">
     written by
     
       Sean Law and Benjamin Zaitlen
     
-    on 2018-03-13
+    on 2018-06-12
   </p>
-  <p>This talk will introduce Apache Spark (one of the most popular big data tools),
-the different built ins (from SQL to ML), and, of course, everyone's favorite wordcount example.
-Once we've got the nice parts out of the way, we'll talk about some of the limitations and the work being
-undertaken to improve those limitations. We'll also look at the cases where Spark is more like trying to
-hammer a screw. Since we want to finish on a happy note, we will close out with looking at the new vectorized
-UDFs in PySpark 2.3.</p>
-<p>If you have other Spark questions, even if they aren’t super related, feel free to bring them with you and we
-can spend the last while doing informal Q&amp;A.</p>
+  <p>Dimension reduction is the task of finding a low dimensional representation of high dimensional data. This has uses
+as a visualisation technique (by reducing to 2 or 3 dimensions), and as a pre-processing step for further
+machine learning tasks, such as clustering, or classification. This talk will provide an overview of different
+approaches to dimension reduction, looking at more recent approaches like t-SNE, before introducing a new algorithm
+called UMAP.</p>
+<p>The talk will provide an introduction to dimension reduction in general, before building the theory that motivates
+UMAP, explaining how the algorithm works. Next, we will look at the implementation details including how
+Numba allows the implementation to be both efficient, and highly flexible (supporting custom distance metrics).
+Finally the talk will discuss how future versions of UMAP will support semi-supervised dimension reduction,
+and potentially operate directly on arbitrary pandas dataframes.</p>
 <hr>
-<p><a href="https://twitter.com/holdenkarau">Holden Karau</a> is a transgender Canadian open source developer advocate @Google with a focus on Apache Spark, BEAM,
-and related "big data" tools. She is the co-author of Learning Spark, High Performance Spark, and another
-Spark book that's a bit more out of date. She is a committer on the PMC for Apache Spark and committer on
-SystemML &amp; Mahout projects. She was tricked into the world of big data while trying to improve search and
-recommendation systems and has long since forgotten her original goal.</p>
-<ul>
-<li><a href="https://www.youtube.com/watch?v=swnFFFxUhT8">Meetup Recording</a></li>
-</ul>
+<p><a href="https://twitter.com/leland_mcinnes">Leland McInnes</a> is a researcher at the Tutte Institute for Mathematics and Computing in Canada. Leland's
+background is in pure mathematics, but he currently works in data science and machine learning with a focus on
+unsupervised learning, and fairness, accountability, and transparency in machine learning.</p>
 
   </div>
 
