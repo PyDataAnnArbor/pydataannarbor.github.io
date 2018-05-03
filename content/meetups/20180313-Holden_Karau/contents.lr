@@ -4,8 +4,6 @@ author: Sean Law and Benjamin Zaitlen
 ---
 pub_date: 2018-03-13
 ---
-future: True
----
 
 body:
 
@@ -16,7 +14,8 @@ undertaken to improve those limitations. We'll also look at the cases where Spar
 hammer a screw. Since we want to finish on a happy note, we will close out with looking at the new vectorized
 UDFs in PySpark 2.3.
 
-If you have other Spark questions, even if they aren’t super related, feel free to bring them with you and we can spend the last while doing informal Q&A.
+If you have other Spark questions, even if they aren’t super related, feel free to bring them with you and we
+can spend the last while doing informal Q&A.
 
 ---------------------------------------------------
 
@@ -25,3 +24,5 @@ and related "big data" tools. She is the co-author of Learning Spark, High Perfo
 Spark book that's a bit more out of date. She is a committer on the PMC for Apache Spark and committer on
 SystemML & Mahout projects. She was tricked into the world of big data while trying to improve search and
 recommendation systems and has long since forgotten her original goal.
+
+- [Meetup Recording](https://www.youtube.com/watch?v=swnFFFxUhT8)
