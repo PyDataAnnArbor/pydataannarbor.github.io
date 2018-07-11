@@ -4,8 +4,6 @@ author: Sean Law and Benjamin Zaitlen
 ---
 pub_date: 2018-06-12
 ---
-future: True
----
 
 body:
 
@@ -26,3 +24,6 @@ and potentially operate directly on arbitrary pandas dataframes.
 [Leland McInnes](https://twitter.com/leland_mcinnes) is a researcher at the Tutte Institute for Mathematics and Computing in Canada. Leland's
 background is in pure mathematics, but he currently works in data science and machine learning with a focus on
 unsupervised learning, and fairness, accountability, and transparency in machine learning.
+
+
+- [Meetup Recording](https://www.youtube.com/watch?v=YPJQydzTLwQ)

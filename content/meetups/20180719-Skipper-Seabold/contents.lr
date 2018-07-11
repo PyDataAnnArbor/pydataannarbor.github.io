@@ -1,0 +1,28 @@
+title: What's the Science in Data Science?
+---
+author: Sean Law and Benjamin Zaitlen
+---
+pub_date: 2018-07-19
+---
+future: True
+---
+
+body:
+
+The gold standard for validating any scientific assumption is to run an experiment. Data science isn’t any
+different. Unfortunately, it’s not always possible to design the perfect experiment. In this talk, we’ll take
+a realistic look at what’s achievable by data scientists through experimentation. We’ll look at experimental
+design, explore some of the reasons a perfect experiment isn’t always possible, and look to the social
+sciences for some alternatives to conduct quasi-experiments with observational data. Finally, we’ll be honest
+about what the methods we have at our disposal can do.
+
+-----
+
+[Skipper Seabold](https://twitter.com/jseabold?lang=en) is Director of Data Science R&D at [Civis Analytics](https://new.civisanalytics.com/)
+in Chicago. He leads a team of
+data scientists from all walks of life from physicists and civil engineers to statisticians and
+computer scientists. Together they drive the data science behind the products Civis offers and push the
+capabilities of solutions that Civis provides to its clients. He is an economist by training and has a
+decade of experience working in the Python data open source community. He started and led
+the [statsmodels](https://www.statsmodels.org/) Python project, was formerly on the core pandas team, and has contributed to many projects in
+Python data stack. He holds strong opinions about writing and barbecue.

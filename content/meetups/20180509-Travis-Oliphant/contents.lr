@@ -4,8 +4,6 @@ author: Sean Law and Benjamin Zaitlen
 ---
 pub_date: 2018-05-09
 ---
-future: True
----
 
 body:
 
@@ -26,3 +24,5 @@ leader of the Numba project, and Conda projects, and most recently the XND (Plur
 for organizing business activity to support open source communities and is the founder of [Anaconda
 (Continuum Analytics)](https://www.anaconda.com/), NumFOCUS, and most recently
 [Quansight](https://www.quansight.com/).
+
+- [Meetup Recording](https://www.youtube.com/watch?v=xBSwFRwwTZQ)
