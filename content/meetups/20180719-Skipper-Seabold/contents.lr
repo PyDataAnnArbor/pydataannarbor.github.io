@@ -4,8 +4,6 @@ author: Sean Law and Benjamin Zaitlen
 ---
 pub_date: 2018-07-19
 ---
-future: True
----
 
 body:
 
@@ -26,3 +24,5 @@ capabilities of solutions that Civis provides to its clients. He is an economist
 decade of experience working in the Python data open source community. He started and led
 the [statsmodels](https://www.statsmodels.org/) Python project, was formerly on the core pandas team, and has
 contributed to many projects in Python data stack. He holds strong opinions about writing and barbecue.
+
+- [Talk PDF](https://github.com/PyDataAnnArbor/Meetup/blob/master/20180719/seabold-talk.pdf)

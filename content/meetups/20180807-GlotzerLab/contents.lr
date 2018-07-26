@@ -1,0 +1,42 @@
+title: Metadata and File Data Management with Signac
+---
+author: Sean Law and Benjamin Zaitlen
+---
+pub_date: 2018-08-07
+---
+future: True
+---
+
+body:
+
+Efficient metadata management is a critical component of every computational study. The ability to robustly
+associate data with parameters for model parameter exploration, hyperparameter
+tuning, or provenance documentation is both crucial and challenging. This talk showcases the
+signac framework (www.signac.io), a lean, open-source Python package designed for data and workflow
+management. The framework’s flexible data model allows easy adaptation into preexisting file-based workflows
+while also providing critical database functionality to filter, search, and group data by metadata. The first
+part of the talk will serve as a brief introduction to challenges commonly encountered in typical
+computational workflows. The second part will be a live demonstration of how we can use signac to
+set up and execute a computational study that avoids these pitfalls. We will then touch on how
+signac integrates into the larger Python ecosystem, including its use in Jupyter notebooks and in
+conjunction with pandas data frames. Attendees are encouraged to bring laptops to optionally
+follow along during the talk and are invited to stay afterwards for assistance with setting up
+signac for their own use.
+
+-----
+
+Carl Simon Adorf is a Ph.D. candidate at the University of Michigan and the lead developer and maintainer of
+the core signac and the signac-flow package. His research interests include scientific computing best
+practices and the optimization of particle interaction models for the
+self-assembly of complex materials.
+
+Vyas Ramasubramani is a 3rd year Ph.D. candidate at the University of Michigan. He works in Sharon Glotzer’s
+research group, where he conducts research focused on the role of various solvent related effects on
+self-assembly. He is currently studying coarse-grained models of
+proteins and how depletion and solvent effects can be efficiently modeled to better understand protein
+crystallization behavior.
+
+Bradley Dice developed the signac-dashboard package to provide a complementary data visualization interface
+for the signac framework. He is a PhD student in Physics and Scientific Computing, working in the Glotzer
+lab at the University of Michigan. His current research uses machine learning techniques to understand the
+dynamics of crystallization in colloidal materials.
