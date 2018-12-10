@@ -4,8 +4,6 @@ author: Sean Law and Benjamin Zaitlen
 ---
 pub_date: 2018-10-09
 ---
-future: True
----
 
 body:
 
@@ -22,3 +20,5 @@ Julia Silge is a data scientist at Stack Overflow, with a PhD in astrophysics an
 Austen. Julia worked in academia and ed tech before moving into data science and discovering R. She enjoys
 making beautiful charts, programming in R, text mining, and communicating about technical topics with diverse
 audiences.
+
+- [Meetup Recording](https://www.youtube.com/watch?v=cGHNCPNTeZE)
