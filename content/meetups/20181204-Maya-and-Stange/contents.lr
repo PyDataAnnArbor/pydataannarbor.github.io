@@ -5,6 +5,8 @@ author: Sean Law and Benjamin Zaitlen
 pub_date: 2018-12-04
 ---
 
+body:
+
 Interpretability is the degree to which a human can understand the cause of a decision or prediction. This talk will provide an introduction to model interpretability and its importance in healthcare and other industries. Next, we will discuss models that are interpretable by design, and then delve into obtaining model-agnostic interpretability methods and interpretability of complex models.
 
 -----
