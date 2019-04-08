@@ -1,0 +1,19 @@
+title: Building Data Science
+---
+author: Sean Law and Benjamin Zaitlen
+---
+pub_date: 2019-05-13
+---
+future: True
+---
+
+body:
+
+Before AI, before machine learning and pipelines, and before dashboards and BI, an organization starts with a pile of data, some business questions, and a few ideas on how to connect the two -- a greenfield, and an entry point for data science.
+
+Answering business questions and turning raw data into insights, models, and products means more than just writing code and doing analysis. A successful data science team needs tools, a communication strategy, thoughtful infrastructure, and a plan to deliver on their goals. This talk will cover how to tackle greenfield data science challenges from the perspective of the first data science hire in an organization, and how to build data science infrastructure from the ground up.
+
+——————————————————
+
+Caitlin Hudon is Lead Data Scientist at OnlineMedEd, a startup in the Edtech space in Austin. Her 8+ years of applied analytics experience has focused on collecting, analyzing, and visualizing data to make data products and guide strategic direction for startups, universities, non-profits, and other businesses. She is a co-founder of R-Ladies Austin, a sometimes-blogger at caitlinhudon.com, and an active member of the data science community.
+

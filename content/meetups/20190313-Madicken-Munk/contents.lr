@@ -1,0 +1,14 @@
+title: Widgyts: yt Jupyter Widgets for Volumetric Data Exploration
+---
+author: Sean Law and Benjamin Zaitlen
+---
+pub_date: 2019-03-13
+---
+
+body:
+
+[yt](https://yt-project.org/) is an open source data visualization package for mesh- and point- based data. It has been used to visualize data in a number of scientific domains, including astrophysics, nuclear engineering, seismology, and oceanography. Often this data is large, interesting, and complex. widgyts is yt's custom jupyter widgets package using Rust compiled to WebAssembly to enable interactive exploration of data with yt. This talk will cover some of the technical aspects of widyts that allow for performant visual data exploration, the path forward for widyts with yt, and include some live demos of widgyts with real data.
+
+-----
+
+[Madicken Munk](http://munkm.github.io/) is a postdoc in the Data Exploration Lab at the National Center for Supercomputing Applications at Urbana-Champaign. Madicken received her PhD from the University of California-Berkeley in Nuclear Engineering doing work in computational methods for neutron transport. Madicken is passionate about open source tools and education. She is a core developer of widgyts, is a part of the yt-project, is a Software Carpentry instructor and the maintainer of the SWC git lesson, and serves as a member of the NumFOCUS Diversity and Inclusion in Scientific Computing (DISC) committee.
