@@ -4,8 +4,6 @@ author: Sean Law and Benjamin Zaitlen
 ---
 pub_date: 2019-05-13
 ---
-future: True
----
 
 body:
 
@@ -17,3 +15,5 @@ Answering business questions and turning raw data into insights, models, and pro
 
 Caitlin Hudon is Lead Data Scientist at OnlineMedEd, a startup in the Edtech space in Austin. Her 8+ years of applied analytics experience has focused on collecting, analyzing, and visualizing data to make data products and guide strategic direction for startups, universities, non-profits, and other businesses. She is a co-founder of R-Ladies Austin, a sometimes-blogger at caitlinhudon.com, and an active member of the data science community.
 
+
+- [Meetup Recording](https://youtu.be/WlBamzdiwic)
