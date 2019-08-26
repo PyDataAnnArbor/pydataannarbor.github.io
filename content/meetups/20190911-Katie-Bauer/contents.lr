@@ -1,0 +1,16 @@
+title: Building "Time On Site" at Reddit
+---
+author: Sean Law and Benjamin Zaitlen
+---
+pub_date: 2019-09-11
+---
+future: True
+---
+
+body:
+
+Time on site is a foundational metric in web analytics and building seems straightforward enough. But modern websites are built on the backs of distributed systems, and distributed systems make it particularly difficult to figure out when something actually happened. In this talk, we'll discuss how we implemented our own time on site metric, the choices we made to do it, the problems those choices caused and the way we fixed them.
+
+-----
+
+Katie Bauer was a founding member of Reddit's data science team and currently manages its Consumer Data Science and Analytics team. She has previously worked in search, digital advertising, and online retail, and is known for using company hackathons as an excuse to bake cakes at work.

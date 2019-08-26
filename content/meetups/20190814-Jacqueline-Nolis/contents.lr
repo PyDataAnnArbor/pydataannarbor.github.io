@@ -4,8 +4,6 @@ author: Sean Law and Benjamin Zaitlen
 ---
 pub_date: 2019-08-14
 ---
-future: True
----
 
 body:
 
@@ -14,3 +12,5 @@ Everyone loves talking about successes, but data science projects fail all the t
 ——-
 
 [Dr. Jacqueline Nolis](https://twitter.com/skyetetra?lang=en) is a co-founder of [Nolis, LLC](https://nolisllc.com/), data science consulting firm. She has over a decade of experience using data to help companies including DSW, Union Bank, Microsoft, and Airbnb. Jacqueline’s interests lie in the human side of data science and how organizations interpret data and make decisions. For fun she likes to use machine learning for humor, including training neural networks on pet names, and creating a website to mashup Twitter accounts.
+
+- [Meetup Recording](https://www.youtube.com/watch?v=FW2dqQksRwo)

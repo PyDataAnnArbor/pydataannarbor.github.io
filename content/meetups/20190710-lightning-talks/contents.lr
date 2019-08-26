@@ -4,8 +4,6 @@ author: Sean Law and Benjamin Zaitlen
 ---
 pub_date: 2019-07-10
 ---
-future: True
----
 
 body:
 
@@ -22,3 +20,5 @@ Demo an interesting project
 Academic research
 
 Please review our code-of-conduct (https://pydata.org/code-of-conduct.html)
+
+- [Meetup Recording](https://www.youtube.com/watch?v=dP4OpfeooEY)

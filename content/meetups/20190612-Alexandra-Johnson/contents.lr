@@ -4,14 +4,14 @@ author: Sean Law and Benjamin Zaitlen
 ---
 pub_date: 2019-06-12
 ---
-future: True
----
 
 body:
 
 Hyperparameter optimization (HPO) is a valuable tool for improving model performance, but it requires a lot of computational power -- so much that HPO experiments are often run on remote clusters. A requirement that data scientists become infrastructure experts just to manage model tuning infrastructure isn't feasible, so data science teams are turning to a variety of tools to help bridge the gap between the model builders and the infrastructure. This talk will provide an overview of machine learning infrastructure tools that aim to solve the problem of launching HPO experiments on clusters, discuss some of the common infrastructure technology choices, and end with some thoughts on the user experience of ML infrastructure tools, leaving the audience more confident in their ability to evaluate, or build, time-saving tools for their team.
 
-—————————
+------
 
 [Alexandra Johnson](https://twitter.com/alexandraj777) is the tech lead for the Platform team at SigOpt, where she strives to build products that make the state of the art in machine learning effortless to use. Additionally, she is a co-organizer of the Bay Area chapter of Women in Machine Learning and Data Science.
 [Twitter: @alexandraj777](https://twitter.com/alexandraj777)
+
+- [Meetup Recording](https://www.youtube.com/watch?v=CsaX4iQsBvA)
