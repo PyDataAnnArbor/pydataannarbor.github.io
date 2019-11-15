@@ -1,0 +1,16 @@
+title: What Happens When Your Data Aren’t Numbers? - Elizabeth Wickes
+---
+author: Sean Law and Benjamin Zaitlen
+---
+pub_date: 2019-12-04
+---
+future: True
+---
+
+body:
+
+Many researchers and analysts work with data heavily populated with text, or are loosely structured text, and images. Many tutorials, training, and packages presume a purely numerical world, or ignore the transformations necessary for preparing this kind of data for numerical analysis. This talk will focus on highlighting the transformation pathways for this kind of data, exploring the consequences of not including this kind of data in tutorials, and suggestions for understanding the needs of these data projects.
+
+----------
+
+Elizabeth Wickes is a Lecturer at the School of Information Sciences at the University of Illinois, where she teaches programming, data curation, and information technology courses. She has previously been a Data Curation, Curation Manager, and Data. She currently co-organizes the Champaign-Urbana Python user group and is serving on The Carpentries’ Executive Council for 2018-2020.
