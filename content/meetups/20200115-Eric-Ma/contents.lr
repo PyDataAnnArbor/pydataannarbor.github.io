@@ -1,0 +1,18 @@
+title: Testing Data Science Code
+---
+author: Sean Law and Benjamin Zaitlen
+---
+pub_date: 2020-01-15
+---
+future: True
+---
+
+body:
+
+Code written in a programming language is the most flexible way to accomplish your data science work. However, every line of code we write is technical debt. In this talk, we will go through the different kinds of tests that you might want to write when doing data science, and how you can incorporate testing into your workflow to write robust code that builds your confidence.
+
+-----
+
+Eric is a data scientist at the Novartis Institutes for Biomedical Research, where he conducts research on machine learning algorithms and their application to early drug discovery programs, and builds machine learning systems in support of bench science. He received his ScD from MIT in 2017 in the Department of Biological Engineering studying influenza evolution and ecology at a global scale, and was an Insight Health Data Fellow where he built a flu sequence evolution forecaster as his project. He is also an open source software developer and community educator, and his website can be found at [ericmjl.github.io](ericmjl.github.io)
+
+Twitter: [@ericmjl](https://twitter.com/ericmjl)
