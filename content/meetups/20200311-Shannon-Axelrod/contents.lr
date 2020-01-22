@@ -1,0 +1,18 @@
+title: Building Software for Biology Research: Into the Cells
+---
+author: Sean Law and Benjamin Zaitlen
+---
+pub_date: 2020-03-11
+---
+future: True
+---
+
+body:
+
+New imaging techniques are enabling biomedical discovery on a whole new scale. This talk explores how the [Chan Zuckerberg Initiative](https://chanzuckerberg.com/) is building open source tools in python for processing the growing amount of data needed for biomedical research.
+
+-----
+
+Shannon is a senior software engineer at the [Chan Zuckerberg Initiative](https://chanzuckerberg.com/). She writes software to help biologists process, analyze, and visualize their data.
+
+Twitter: [@shannonaxelrod](https://twitter.com/shannonaxelrod)

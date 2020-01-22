@@ -1,0 +1,18 @@
+title: Whalefakes: Language Modeling for Comedy & Creativity
+---
+author: Sean Law and Benjamin Zaitlen
+---
+pub_date: 2020-04-01
+---
+future: True
+---
+
+body:
+
+Text generation hit new benchmarks with OpenAI’s GPT-2, a 1.5B-parameter Transformer model which went through a staged release process to assess its potential for misuse. Instead of using it for evil, Helen fine-tuned the model on tweets to understand whether it could generate novel, funny output which humans find entertaining — and it was a smashing success. In this talk, she discusses training GPT-2 to output jokes in the style of Twitter personalities such as @awhalefact, and how its results power the parody Twitterbot, @whalefakes.
+
+Helen will explore some of the model’s weird, wacky, wild outputs and some surprises which are so absurdly funny that she’s pretty sure that humans never would have come up with them on their own. She will also provide unsolicited opinions and commentary on AI, humour, and the future of applying AI to augment a traditionally-human endeavour such as writing comedy.
+
+-----
+
+Helen Ngo works on machine learning at [Secant](https://secant.ai), a Toronto-based startup. She was previously a 2019 Fellow at the Recurse Center in New York City, and a 2018 Sidewalk Toronto Fellow as part of the Sidewalk Labs and Waterfront Toronto joint smart city initiative. Helen created unnecessary.ai and tweets about whales and machine learning @mathemakitten.
